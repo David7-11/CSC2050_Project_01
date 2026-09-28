@@ -1,0 +1,6 @@
+# Factorial test cases
+
+0 | 1
+1 | 1
+5 | 120
+6 | 720
